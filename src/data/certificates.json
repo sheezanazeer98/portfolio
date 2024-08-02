@@ -1,0 +1,34 @@
+[
+    {
+        "id": "cbbf-certification",
+        "certificatePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuXC7VFoReIJZ5p48MIbtC9fweqWdDC2Trw&s",
+        "certificateTitle": "CBBF Certification",
+        "certificateTime": "March 2024",
+        "certificateName": "PIAIC",
+        "certificateDescription": "Successfully passed the CBBF Certification exam, demonstrating proficiency in blockchain technologies and decentralized applications."
+    },
+    {
+        "id": "piaic-test-passing-certificate",
+        "certificatePicture": "https://wpassets.graana.com/blog/wp-content/uploads/2023/05/PIAIC2-1.png",
+        "certificateTitle": "PIAIC Test Passing Certificate",
+        "certificateTime": "March 2024",
+        "certificateName": "PIAIC",
+        "certificateDescription": "Awarded the Test Passing Certificate from PIAIC, reflecting a strong understanding of emerging technologies and their applications."
+    },
+    {
+        "id": "best-employee-certificate",
+        "certificatePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk42V6MdwW__yy1qFaZbg7gBHv758V6ysPiQ&s",
+        "certificateTitle": "Best Employee Certificate",
+        "certificateTime": "February 2022",
+        "certificateName": "InvoZone",
+        "certificateDescription": "Honored with the Best Employee Certificate at InvoZone for outstanding performance and dedication to excellence."
+    },
+    {
+        "id": "foundations-of-project-management",
+        "certificatePicture": "https://mms.businesswire.com/media/20240520977028/en/1096766/23/coursera-logo-full-rgb_%284%29.jpg",
+        "certificateTitle": "Foundations of Project Management",
+        "certificateTime": "January 2024",
+        "certificateName": "Coursera",
+        "certificateDescription": "Completed the Foundations of Project Management course on Coursera, gaining essential skills in project planning, execution, and management. [Verify](https://www.coursera.org/account/accomplishments/verify/QWJK8ZNLHFMD)"
+    }
+]

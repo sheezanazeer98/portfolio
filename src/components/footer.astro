@@ -1,0 +1,68 @@
+---
+import Logo from "./logo.astro";
+const thumbnail = "/music/watchu-need.webp";
+const artist = "UNIS";
+const song = "Watchu Need";
+const link = "https://open.spotify.com/track/6PYphoxBs7FU51L8zAcUOV";
+---
+
+<footer
+    class="flex flex-col border-t-[1px] border-[#0001] dark:border-[#ffffff15]  gap-14"
+>
+    <section
+        class="flex flex-col sm:flex-row sm:items-center gap-8 sm:justify-between"
+    >
+        <div
+            class="flex gap-2 items-center font-bold text-light-texto-primary dark:text-dark-texto-primary"
+        >
+            <Logo /> Sheeza Nazeer
+        </div>
+        <ul class="flex flex-col sm:flex-row gap-3 sm:gap-8">
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#home">Start</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#skills">Skills</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#jobs">Experience</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#projects">Projects</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#education">Education</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="#certificates">Certificates</a
+                >
+            </li>
+            <li>
+                <a
+                    class="text-light-texto-secondary dark:text-dark-texto-secondary font-medium text-[0.91rem] hover:text-light-texto-primary dark:hover:text-dark-texto-primary transition-colors hover:underline"
+                    href="https://docs.google.com/document/d/1Z2nb6ONFiTsDYenPMnol2Y5liKqbzit-/edit#heading=h.wrxm6v34in9f"
+                    target="_blank">Resume</a
+                >
+            </li>
+        </ul>
+    </section>
+    <div class="text-light-texto-secondary dark:text-dark-texto-secondary  text-center"  >  Sheeza Nazeer | {new Date().getFullYear()}  </div>
+ ]
+</footer>

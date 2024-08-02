@@ -1,0 +1,64 @@
+---
+const { title } = Astro.props;
+import "../styles/globals.css";
+---
+
+<html lang="en" class="dark">
+    <head>    
+        <meta charset="utf-8">
+        <link rel="icon" type="image/svg+xml" href="favicon.ico">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+        <meta name="viewport" content="width=device-width">
+        <meta name="generator" content="Astro v2.1.2">
+        <meta name="description" content="Sheeza Nazeer is an experienced Blockchain Engineer specializing in blockchain technologies and decentralized applications.">
+        <meta name="author" content="Sheeza Nazeer">
+        <meta name="keywords" content="Sheeza Nazeer, Blockchain Engineer, blockchain development, decentralized applications, Solidity, Ethereum, smart contracts, web3, blockchain technology">
+        <meta property="og:title" content="Sheeza Nazeer - Blockchain Engineer">
+        <meta property="og:url" content="https://sheezanazeer.com/">
+        <meta property="og:image" content="https://media.licdn.com/dms/image/C4D03AQHXJ6-mRHW7iw/profile-displayphoto-shrink_400_400/0/1655048148666?e=1727913600&v=beta&t=BN8XAf8NHNaDDDfDo3Pt6T-lPeVj9SqARwshnvW26vs">
+        <meta property="og:description" content="Sheeza Nazeer is an experienced Blockchain Engineer specializing in blockchain technologies and decentralized applications.">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Sheeza Nazeer - Blockchain Engineer">
+        <meta property="og:locale" content="en_US">
+        <link rel="canonical" href="https://sheezanazeer.com/">
+        <title>Sheeza Nazeer - Blockchain Engineer</title>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "Person",
+                "name": "Sheeza Nazeer",
+                "url": "https://sheezanazeer.com",
+                "image": "https://media.licdn.com/dms/image/C4D03AQHXJ6-mRHW7iw/profile-displayphoto-shrink_400_400/0/1655048148666?e=1727913600&v=beta&t=BN8XAf8NHNaDDDfDo3Pt6T-lPeVj9SqARwshnvW26vs",
+                "sameAs": [
+                    "https://www.linkedin.com/in/sheeza-nazeer-blockchain-engineer",
+                    "https://github.com/sheezanazeer98"
+                ],
+                "jobTitle": "Blockchain Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Analog"
+                },
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "Agriculture university Faisalabad"
+                }
+            }
+        </script>
+    
+        <link rel="stylesheet" href="/_astro/index.ffeb9be0.css" /><script type="module" src="/_astro/hoisted.6a3a584d.js"></script></head>
+    <body class="bg-light-fondo-primary dark:bg-dark-fondo-primary">
+        <slot />
+        <script>
+            const darkThemeMq = window.matchMedia(
+                "(prefers-color-scheme: dark)"
+            );
+            if (darkThemeMq.matches) {
+                document.body.classList.add("dark");
+                document.documentElement.classList.add("dark");
+            } else {
+                document.body.classList.remove("dark");
+                document.documentElement.classList.remove("dark");
+            }
+        </script>
+    </body>
+</html>

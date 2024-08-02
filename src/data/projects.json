@@ -1,0 +1,42 @@
+[
+    {
+        "id": "ARISwap",
+        "carouselImages": ["https://miro.medium.com/v2/resize:fit:1200/0*CyaRs8XttrW1LXuM.jpg"],
+        "projectRepo": "https://github.com/sheezanazeer98/IcuryErc20/",
+        "projectSite": "https://sepolia.etherscan.io/address/0xA736dcE7a51A9ECE7437121C731CF0B6E88a50E0",
+        "projectTitle": "ARISwap",
+        "projectSlogan": "Advanced ERC721 Token for Swap",
+        "projectDescription": "ARISwap is an ERC721 token with extended functionalities for bidding and fixed price sales. The contract supports minting new NFTs, opening them for bidding, placing bids, accepting offers, and managing fixed price sales. It includes safety checks and fee mechanisms to ensure secure and fair transactions.",
+        "projectTechnologies": ["Solidity", "OpenZeppelin", "Hardhat", "Ethers.js"]
+    },
+    {
+        "id": "Icury",
+        "carouselImages": ["https://coindoo.com/wp-content/uploads/2018/10/erc-20.jpg"],
+        "projectRepo": "https://github.com/sheezanazeer98/IcuryErc20/",
+        "projectSite": "https://sepolia.etherscan.io/address/0xA736dcE7a51A9ECE7437121C731CF0B6E88a50E0",
+        "projectTitle": "Icury",
+        "projectSlogan": "ERC20 Token Implementation",
+        "projectDescription": "Icury is an ERC20 token contract designed to facilitate the creation, management, and transfer of tokens. This project includes standard ERC20 functionalities, such as minting, burning, and transferring tokens, along with additional security measures to ensure safe transactions.",
+        "projectTechnologies": ["Solidity", "OpenZeppelin", "Truffle", "Web3.js"]
+    },
+    {
+        "id": "ADAMANTIUM",
+        "carouselImages": ["https://www.kanalcoin.com/wp-content/uploads/2021/11/BEP-20.jpg","https://blog.accubits.com/wp-content/uploads/2021/06/How-to-create-a-token-on-Binance-Chain-BEP20-tokens.jpg"],
+        "projectRepo": "https://github.com/sheezanazeer98/ADAMANTIUM",
+        "projectSite": "https://etherscan.io/address/0x2f72aD04c549E1ab350e52E8437Ec795309218B3#code",
+        "projectTitle": "ADAMANTIUM",
+        "projectSlogan": "BEP-20 Token with Dex Integration",
+        "projectDescription": "ADAMANTIUM is a BEP-20 token contract with standard BEP-20 functions, transaction fees, maximum transaction limits, fee exclusions, and Dex integration for liquidity pairs. It includes ownership management and uses the SafeMath library for safe arithmetic operations.",
+        "projectTechnologies": ["Solidity", "Binance Smart Chain", "SafeMath", "PancakeSwap"]
+    },
+    {
+        "id": "Wolverinu",
+        "carouselImages": ["https://assets-global.website-files.com/6191e507f3028a2aa81f9749/61994d437f6c6b053b21d8eb_Wolverinu_logo.svg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cK74XypE3W4uL0xKHSlstayt8qVVoY-b4Q&s"],
+        "projectRepo": "https://github.com/sheezanazeer98/Wolverinu",
+        "projectSite": "https://etherscan.io/address/0xca7b3ba66556C4Da2E2A9AFeF9C64F909A59430a#code",
+        "projectTitle": "Wolverinu",
+        "projectSlogan": "Enhanced ERC20 Token",
+        "projectDescription": "Wolverinu is an ERC20 token featuring ownership, transaction fees, cooldown mechanisms, and Uniswap integration. The project leverages Hardhat for contract compilation, testing, and deployment.",
+        "projectTechnologies": ["Solidity", "OpenZeppelin", "Hardhat", "Uniswap"]
+    }
+]

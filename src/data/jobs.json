@@ -1,0 +1,57 @@
+[
+    {
+      "id": "analog",
+      "jobPicture": "https://media.licdn.com/dms/image/D560BAQGxk1II4nDJMg/company-logo_100_100/0/1690535665036/analogone_logo?e=1730332800&v=beta&t=QJHhpGY-jgPbLm2TO24QgyWr6ldV18Y6McfCto5GS1I",
+      "jobColor": "#006fff",
+      "jobTitle": "Blockchain Engineer",
+      "jobTime": "February 2022 - Present",
+      "jobCompany": "Analog",
+      "jobCompanySite": "https://www.analog.one/",
+      "jobDescription": "Conducted in-depth analysis and comparison of various blockchain technologies. Specialized in Polkadot, DAOs, and DeFi, contributing to the development of advanced blockchain solutions.",
+      "jobActivities": [
+        "Collaborated on consensus building and market research to find new blockchain opportunities.",
+        "Solved complex issues related to decentralized exchanges (DEX) and blockchain structure.",
+        "Audited and ensured the security of NFTs and smart contracts.",
+        "Provided research insights to guide business strategies and improve client relationships.",
+        "Led the team, promoting innovation and collaboration."
+      ],
+      "jobTechnologies": ["Polkadot", "DAOs", "Defi", "IPFS", "web3.js"]
+    },
+    {
+      "id": "invozone",
+      "jobPicture": "https://media.licdn.com/dms/image/C4D0BAQH24ipABhggsw/company-logo_100_100/0/1661148759362/invozone_logo?e=1730332800&v=beta&t=64xsNZN324fauCZjsI2BKfv3PcmKvA7D0vtSeB0cuDU",
+      "jobColor": "#27235e",
+      "jobTitle": "Blockchain Engineer",
+      "jobTime": "March 2020 - January 2022",
+      "jobCompany": "InvoZone",
+      "jobCompanySite": "https://invozone.com/",
+      "jobDescription": "Led strategic planning and development for blockchain projects, focusing on decentralized exchanges (DEX) and tokenization. Specialized in smart contract development and auditing.",
+      "jobActivities": [
+        "Developed and audited smart contracts using Hardhat and Truffle frameworks.",
+        "Implemented construction staking and ensured the successful deployment of blockchain tokens.",
+        "Demonstrated expertise in IPFS and web3.js to support blockchain projects.",
+        "Conducted extensive research on blockchain technologies to inform business strategy.",
+        "Managed resources effectively to optimize project outcomes."
+      ],
+      "jobTechnologies": ["Web3", "Truffle", "Solidity", "Hardhat", "IPFS", "web3.js"]
+    },
+    {
+      "id": "upwork",
+      "jobPicture": "https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_100_100/0/1630655510176/upwork_logo?e=1730332800&v=beta&t=Z38PFdcyFaqmvM5JRuQ_0ESFw3VxKcLdKHL6Bklm6fM",
+      "jobColor": "#0086eb",
+      "jobTitle": "Blockchain Developer",
+      "jobTime": "February 2019 - January 2020",
+      "jobCompany": "Upwork",
+      "jobCompanySite": "https://www.upwork.com/freelancers/~017687cc59aba65a8c",
+      "jobDescription": "Specialized in blockchain technology with a focus on smart contract development. Worked with various blockchain platforms including Ethereum, Binance, and Polkadot.",
+      "jobActivities": [
+        "Developed decentralized applications (DAPPs) and managed ICOs.",
+        "Designed and audited smart contracts for reliability and efficiency.",
+        "Collaborated with businesses and entrepreneurs on blockchain projects.",
+        "Stayed current with blockchain advancements to drive real-world progress.",
+        "Offered quality blockchain development services with a personalized touch."
+      ],
+      "jobTechnologies": ["Ethereum", "Binance", "Polkadot", "web3.js"]
+    }
+  ]
+  

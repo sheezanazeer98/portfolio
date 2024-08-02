@@ -1,0 +1,18 @@
+[
+    {
+        "id": "university-of-agriculture-faislabad",
+        "educationPicture": "https://upload.wikimedia.org/wikipedia/en/2/2e/Agriculture_University_Faisalabad_emblem.png",
+        "educationTitle": "Master of Science in Computer Science",
+        "educationType": "Degree:",
+        "educationTime": "Sept 2019 - Dec 2021",
+        "educationCompany": "University of Agriculture , Faisalabad"
+    },
+    {
+        "id": "Government-College-University-Faislabad",
+        "educationPicture": "https://iconape.com/wp-content/files/go/194716/svg/194716.svg",
+        "educationTitle": "Bachelor of Science in Computer Science",
+        "educationType": "Degree:",
+        "educationTime": "Sept 2015 - May 2019",
+        "educationCompany": "Government College University, Faislabad"
+    }
+]

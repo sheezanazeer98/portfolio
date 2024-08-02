@@ -1,0 +1,100 @@
+[
+
+    {
+        "skillName": "Solidity",
+        "skillPicture":"https://www.svgrepo.com/show/373788/light-solidity.svg"
+      },
+
+      {
+        "skillName": "JavaScript",
+        "skillPicture":
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
+      },
+
+      {
+        "skillName": "Ethereum",
+        "skillPicture": "https://www.svgrepo.com/show/353715/ethereum.svg"
+      },
+
+    {
+        "skillName": "React Js",
+        "skillPicture":
+          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+      },
+      {
+        "skillName": "Mongo DB",
+        "skillPicture":"https://www.svgrepo.com/show/331488/mongodb.svg"
+      },
+
+      {
+        "skillName": "Node js",
+        "skillPicture":"https://www.svgrepo.com/show/452075/node-js.svg"
+      },
+
+      {
+        "skillName": "Ether js",
+        "skillPicture":"https://www.svgrepo.com/show/470622/ether.svg"
+      },
+      {
+        "skillName": "PgSQL",
+        "skillPicture": "https://www.svgrepo.com/show/373965/pgsql.svg"
+    },
+      {
+        "skillName": "HTML",
+        "skillPicture": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
+      },
+      {
+        "skillName": "CSS",
+        "skillPicture":
+          "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
+      },
+
+      {
+        "skillName": "Git",
+        "skillPicture":"https://www.svgrepo.com/show/452210/git.svg"
+      },
+
+      {
+        "skillName": "Github",
+        "skillPicture":"https://www.svgrepo.com/show/503359/github.svg"
+      },
+      
+      {
+        "skillName": "VS Code",
+        "skillPicture":"https://www.svgrepo.com/show/374171/vscode.svg"
+      },
+
+      {
+        "skillName": "Remix",
+        "skillPicture":"https://www.svgrepo.com/show/485535/setting.svg"
+      },
+
+    {
+        "skillName": "Chrome DevTools",
+        "skillPicture": "https://www.svgrepo.com/show/485264/chrome-like.svg"
+    },
+    {
+        "skillName": "NPM",
+        "skillPicture": "https://www.svgrepo.com/show/354128/npm.svg"
+    },
+    {
+        "skillName": "Hardhat",
+        "skillPicture": "https://www.svgrepo.com/show/260958/hat-gangster.svg"
+    },
+    {
+        "skillName": "Docker",
+        "skillPicture": "https://www.svgrepo.com/show/452192/docker.svg"
+    },
+    {
+        "skillName": "Jira",
+        "skillPicture": "https://www.svgrepo.com/show/452241/jira.svg"
+    },
+    {
+        "skillName": "Eclipse",
+        "skillPicture": "https://www.svgrepo.com/show/353685/eclipse-icon.svg"
+    },
+    {
+      "skillName": "Slack",
+      "skillPicture": "https://www.svgrepo.com/show/452102/slack.svg"
+  }
+]
